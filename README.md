@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RifalJo&label=Profile%20views&color=0e75b6&style=flat" alt="RifalJo" /> </p>
 
 
-<table>
+<table style="background-color: white;">
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/rifaldi706/">
@@ -17,6 +17,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
