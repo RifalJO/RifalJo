@@ -1,9 +1,18 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm RifalJo</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Archivo&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+Im+RifalJo;Streamer+Wannabe" alt="Typing SVG" width="1200" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RifalJo&label=Profile%20views&color=0e75b6&style=flat" alt="RifalJo" /> </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="200" />
+</div>
 
 
-<table style="background-color: white;">
+🌱 I’m currently learning **C++**
+
+📫 How to reach me: **RizkiRifaldi0602@gmail.com**
+
+### Connect with me:
+<table border="0">
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/rifaldi706/">
@@ -15,15 +24,44 @@
         <img height="32" width="32" src="https://cdn.simpleicons.org/youtube"/>
       </a>
     </td>
+    <td style="padding-left: 10px;">
+      <a href="www.instagram.com/m.rizky.rifaldi">
+        <img height="32" width="32" src="https://cdn.simpleicons.org/instagram"/>
+      </a>
+    </td>
+  <td style="padding-left: 10px;">
+      <a href="https://discord.gg/98V6gtM582">
+        <img height="32" width="32" src="https://cdn.simpleicons.org/discord"/>
+      </a>
+    </td>
   </tr>
 </table>
 
 
 
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/RifalJo">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RifalJo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+
+<h1 align="center" style="font-size: 36px;">My Skill</h1>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,mysql,ps,pr,py,vscode" />
+  </a>
+
+
+
+
 <!--
 **RifalJO/RifalJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://discord.gg/DgDZVVX6
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
