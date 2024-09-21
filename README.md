@@ -7,7 +7,7 @@
 </div>
 
 
-🌱 I’m currently learning **C++**
+🌱 I’m currently learning **Everything**
 
 📫 How to reach me: **RizkiRifaldi0602@gmail.com**
 
