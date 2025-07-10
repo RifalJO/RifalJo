@@ -12,30 +12,8 @@
 📫 How to reach me: **RizkiRifaldi0602@gmail.com**
 
 ### Connect with me:
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/rifaldi706/">
-        <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin"/>
-      </a>
-    </td>
-    <td style="padding-left: 10px;">
-      <a href="https://www.youtube.com/@RifalJo">
-        <img height="32" width="32" src="https://cdn.simpleicons.org/youtube"/>
-      </a>
-    </td>
-    <td style="padding-left: 10px;">
-      <a href="www.instagram.com/m.rizky.rifaldi">
-        <img height="32" width="32" src="https://cdn.simpleicons.org/instagram"/>
-      </a>
-    </td>
-  <td style="padding-left: 10px;">
-      <a href="https://discord.gg/98V6gtM582">
-        <img height="32" width="32" src="https://cdn.simpleicons.org/discord"/>
-      </a>
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/rifaldi706)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.rizky.rifaldi)
 
 
 
