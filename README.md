@@ -7,7 +7,7 @@
 </div>
 
 
-🌱 I’m currently learning **Everything**
+🌱 My goal is to **learn** as much as possible.
 
 📫 How to reach me: **RizkiRifaldi0602@gmail.com**
 
